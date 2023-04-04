@@ -7,7 +7,7 @@ import Logo from "../../../Images/logo.png"
 const Navbar = () => {
   let Links = [
     { name: "About", link: "/" },
-    { name: "Events", link: "/" },
+    { name: "Events", link: "/events" },
     { name: "Albums", link: "/" },
     { name: "Contact Us", link: "/" },
   ];
